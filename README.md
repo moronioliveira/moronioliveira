@@ -1,10 +1,10 @@
-# Olá, eu sou o Moroni Oliveira! 👋
+# Olá, eu sou Moroni Oliveira! 👋
 ### Backend Developer | Java & Spring Boot Specialist
 
 ---
 
 ## 🕹️ Meu Ecossistema de Contribuições
-Aqui você vê o rastro dos meus commits sendo "devorados" pelo Pacman em tempo real:
+Aqui você pode vê o rastro dos meus commits sendo "devorados" pelo Pacman em tempo real:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moronioliveira/moronioliveira/output/pacman-contribution-graph-dark.svg">
@@ -30,7 +30,7 @@ Minha stack principal focada em desenvolvimento robusto e escalável:
 API REST completa para controle de produtos, preços e categorias.
 * **Tech Stack:** Java 21, Spring Boot, Spring Data JPA, Lombok.
 * **Status:** CRUD completo (Create, Read, Update, Delete) com validações customizadas.
-* [Acessar Repositório](https://github.com/moronioliveira/estoque-vendinha)
+* [Acessar Repositório](https://github.com/moronioliveira/api-loja-roupas)
 
 ---
 
@@ -41,4 +41,4 @@ API REST completa para controle de produtos, preços e categorias.
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moroni-oliveira)
