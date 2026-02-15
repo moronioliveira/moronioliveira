@@ -1,4 +1,4 @@
-# Olá, eu sou Moroni Oliveira! 👋
+# Olá, eu sou o Morôni! 👋
 ### Backend Developer | Java & Spring Boot Specialist
 
 ---
