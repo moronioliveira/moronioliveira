@@ -34,18 +34,18 @@ API REST completa para controle de produtos, preços e categorias.
 
 ---
 
----
-
----
-
 ## 📈 Estatísticas e Performance
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moronioliveira&theme=radical)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical)
+## 🛠️ Minhas Tecnologias (Hard Skills)
 
 ---
 
----
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) |
+| **Ferramentas** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
