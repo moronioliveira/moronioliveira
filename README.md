@@ -40,8 +40,7 @@ API REST completa para controle de produtos, preços e categorias.
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moronioliveira&theme=radical" alt="Sequência de Commits" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical&langs_count=6" alt="Linguagens" height="180" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical&hide_progress=true" alt="Linguagens" />
 
 ---
 
