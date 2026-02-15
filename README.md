@@ -36,10 +36,9 @@ API REST completa para controle de produtos, preços e categorias.
 
 ## 📈 Estatísticas e Performance
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moronioliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=moronioliveira&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical)
 
 ---
 
