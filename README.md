@@ -26,7 +26,7 @@ Minha stack principal focada em desenvolvimento robusto e escalável:
 
 ## 🚀 Projetos em Destaque
 
-### 📦 API de Gestão de Estoque (A Vendinha)
+### 📦 API Loja de roupas
 API REST completa para controle de produtos, preços e categorias.
 * **Tech Stack:** Java 21, Spring Boot, Spring Data JPA, Lombok.
 * **Status:** CRUD completo (Create, Read, Update, Delete) com validações customizadas.
@@ -34,9 +34,12 @@ API REST completa para controle de produtos, preços e categorias.
 
 ---
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do Moroni](https://github-readme-stats.vercel.app/api?username=moronioliveira&show_icons=true&theme=radical&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical)
+## 📈 Estatísticas e Performance
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=moronioliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical&langs_count=6" alt="Linguagens mais usadas" height="180" />
+</p>
 
 ---
 
