@@ -40,7 +40,8 @@ API REST completa para controle de produtos, preços e categorias.
 
 ## 📈 Estatísticas e Performance
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moronioliveira&theme=radical) ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moronioliveira&theme=radical)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=moronioliveira&layout=compact&theme=radical)
 
 ---
 
