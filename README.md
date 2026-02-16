@@ -37,9 +37,10 @@ API REST completa para controle de produtos, preços e categorias.
 ## 📈 Estatísticas e Performance
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=moronioliveira&theme=radical)
-## 🛠️ Minhas Tecnologias (Hard Skills)
 
 ---
+
+## 🛠️ Minhas Tecnologias (Hard Skills)
 
 | Categoria | Tecnologias |
 | :--- | :--- |
