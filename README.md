@@ -39,8 +39,8 @@ Arquitetura **BFF (Backend For Frontend)** estruturada em microsserviços integr
 ### 🪙 [CriptoApp](https://github.com/moronioliveira/criptoapp)
 Aplicação web para monitoramento e consulta em tempo real de cotações e métricas do mercado de criptomoedas.
 * **Destaques:** Integração com APIs externas de dados financeiros, manipulação dinâmica de dados assíncronos no front-end e renderização de interfaces reativas com TypeScript e React.
-* **Tech Stack:** React, TypeScript, JavaScript, HTML5, CSS3.
-* 🔗 [Acessar Aplicação Online](https://moronioliveira.github.io/Criptoapp/)
+* **Tech Stack:** React, TypeScript, JavaScript, HTML5, CSS3, vercel.
+* 🔗 [Acessar Aplicação Online](https://criptoapp-red.vercel.app/)
 
 ### 📄 [Gerador de Atas de Reunião](https://github.com/moronioliveira/Criador-atas)
 Aplicação web interativa para automação do processo de geração e organização de atas corporativas.
