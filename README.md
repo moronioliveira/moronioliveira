@@ -1,5 +1,5 @@
 # Olá, sejam bem vindos ao meu Github! 👋
-### Fullstack Software Engineer | Java (Spring Boot) & JavaScript (React, TypeScript) Specialist
+### Fullstack Software Engineer | Java (Spring Boot) & JavaScript (React, TypeScript, NextJS) Specialist
 
 ---
 
